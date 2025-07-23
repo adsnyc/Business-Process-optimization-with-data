@@ -3,7 +3,7 @@
 # Expense Reimbursement Process Optimization
 
 ## Objective
-This project aims to optimize the employee expense reimbursement process by identifying bottlenecks, reducing cycle time, and enhancing automation using **SQL** and **Tableau**. The goal is to cut the average reimbursement duration from **~25 days to 7 days**, improving efficiency across employee, managerial, and finance touchpoints.
+This project aims to optimize the employee **expense reimbursement** process by identifying bottlenecks, reducing cycle time, and enhancing automation using **SQL** and **Tableau**. The goal is to cut the average reimbursement duration from **~25 days to 7 days**, improving efficiency across employee, managerial, and finance touchpoints.
 
 ---
 
@@ -24,7 +24,7 @@ This project aims to optimize the employee expense reimbursement process by iden
 ## Tools Used
 - **PostgreSQL** (SQL analysis & insights)
 - **Tableau** (Data visualization and dashboards)
-- **Lucidchart / Draw.io** (Process Mapping – As-Is & To-Be)
+- **Visio** (Process Mapping – As-Is & To-Be)
 - **MS Word** (Documentation – Interviews, BRD, Insights)
 
 ---
