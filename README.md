@@ -7,7 +7,7 @@ This project aims to optimize the employee expense reimbursement process by iden
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File Name                          | Description                                           |
 |-----------------------------------|-------------------------------------------------------|
@@ -21,7 +21,7 @@ This project aims to optimize the employee expense reimbursement process by iden
 
 ---
 
-## 🔍 Tools Used
+## Tools Used
 - **PostgreSQL** (SQL analysis & insights)
 - **Tableau** (Data visualization and dashboards)
 - **Lucidchart / Draw.io** (Process Mapping – As-Is & To-Be)
@@ -29,7 +29,7 @@ This project aims to optimize the employee expense reimbursement process by iden
 
 ---
 
-## 🔄 Process Followed
+## Process Followed
 
 1. **Stakeholder Interviews**
    - Conducted 4 interviews from different companies to gather real pain points.
@@ -56,34 +56,34 @@ This project aims to optimize the employee expense reimbursement process by iden
 
 ---
 
-## ✅ Key Outcomes
+## Key Outcomes
 
-- 📉 Reimbursement cycle reduced from **~25 days → 7 days**
-- ⏱️ Employee submission time reduced by **~85%**
-- ⛔ Delays flagged via dashboard, improving managerial response time
-- 🔄 Proposed system improvements: OCR receipt scanning, pre-validation rules, smart dropdowns, and status dashboards
+- Reimbursement cycle reduced from **~25 days → 7 days**
+- Employee submission time reduced by **~85%**
+- Delays flagged via dashboard, improving managerial response time
+- Proposed system improvements: OCR receipt scanning, pre-validation rules, smart dropdowns, and status dashboards
 
 ---
 
-## 📄 Project Relevance
+## Project Relevance
 
-This is a **self-initiated Business Analyst portfolio project** designed to:
+This is a **self-initiated project** designed to:
 - Showcase stakeholder analysis
 - Apply SQL & Tableau for process improvement
 - Demonstrate real-world documentation via BRD
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Thanks to the peers who contributed their time for stakeholder interviews.
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Nehru Chowhan**  
-MBA Candidate | Business Analyst Aspirant  
-📧 nehruvaru09@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+**Akshay Deep Siddam**   
+siddam.akshaydeep@gmail.com 
+LinkedIn - https://www.linkedin.com/in/akshaydeep-siddam/
+
 
