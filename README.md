@@ -83,7 +83,7 @@ Thanks to the peers who contributed their time for stakeholder interviews.
 ## Contact
 
 **Akshay Deep Siddam**   
-siddam.akshaydeep@gmail.com 
-LinkedIn - https://www.linkedin.com/in/akshaydeep-siddam/
+akshaydeep.nyc@gmail.com 
+LinkedIn - https://www.linkedin.com/in/adsnyc/
 
 
